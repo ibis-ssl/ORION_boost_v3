@@ -34,7 +34,7 @@
         "other_text_upright": false,
         "pads": {
           "drill": 1.2,
-          "height": 1.905,
+          "height": 2.0,
           "width": 1.905
         },
         "silk_line_width": 0.15,
@@ -57,8 +57,10 @@
       ],
       "drc_exclusions": [
         "clearance|104600000|74680000|f5f1e6dc-4824-4d3e-9bfc-24d59282038a|1ff19aa5-4979-4e2b-9760-38df44354061",
+        "clearance|135087500|56915500|4b162ba7-7d4b-4633-96b4-e5605ba548f7|289a5766-b695-491d-8c16-8bb354e85d73",
         "clearance|135117600|57907500|289a5766-b695-491d-8c16-8bb354e85d73|4b162ba7-7d4b-4633-96b4-e5605ba548f7",
-        "clearance|145393200|70120000|4ac0fffc-042c-49db-ba8a-ec3300c2e22e|0bacce04-4e34-4e11-bc25-8554b78d4312"
+        "clearance|145393200|70120000|4ac0fffc-042c-49db-ba8a-ec3300c2e22e|0bacce04-4e34-4e11-bc25-8554b78d4312",
+        "copper_edge_clearance|104000000|136000000|d69ecbbc-368a-4257-bf67-6b9092e2bb59|759a80a7-cedd-41d2-a707-af68fec93609"
       ],
       "meta": {
         "filename": "board_design_settings.json",
