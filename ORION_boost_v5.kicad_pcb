@@ -540,7 +540,7 @@
 		(path "/00000000-0000-0000-0000-00005e6f7184")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 6.42 -4.06)
 			(end 5 -4.06)
@@ -935,7 +935,7 @@
 		(path "/dd0e3fac-6d89-4ce1-9c44-4df45084674b")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.71 -1.41)
 			(end -2.71 1.41)
@@ -1251,7 +1251,7 @@
 		(path "/b8cb7d72-5f52-4b67-9e34-24e02c25ff0b")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(pad "1" smd roundrect
 			(at 0 0 90)
 			(size 2.6 1.2)
@@ -4375,7 +4375,7 @@
 		(path "/00000000-0000-0000-0000-00005bed6382")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 2.07 1.57)
 			(end -2.07 1.57)
@@ -5611,7 +5611,7 @@
 		(path "/00000000-0000-0000-0000-00005e36e239")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 6.42 -4.06)
 			(end 5 -4.06)
@@ -6769,7 +6769,7 @@
 		(path "/ff7ed9d5-9656-47b8-9e7a-ab4de909d788")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 7.71 -2.71)
 			(end 7.71 2.71)
@@ -7317,7 +7317,7 @@
 		(path "/7ae3da51-81d7-43c3-8fab-ccf1b3da5b6e")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -2.286)
@@ -7430,7 +7430,7 @@
 		(path "/12486d31-5dc6-4607-99da-d09e5689da47")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.07 -1.57)
 			(end 2.07 -1.57)
@@ -7693,7 +7693,7 @@
 		(path "/1479864b-9156-4917-a9cb-f91182ce47d4")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(pad "1" smd roundrect
 			(at 0 0 90)
 			(size 2.6 1.2)
@@ -7773,7 +7773,7 @@
 		(path "/00000000-0000-0000-0000-000057ddcddc")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 9 -1.3)
 			(end 9 2.2)
@@ -7966,7 +7966,7 @@
 		(path "/00000000-0000-0000-0000-00005bce649d")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 2.07 1.57)
 			(end -2.07 1.57)
@@ -8229,7 +8229,7 @@
 		(path "/b3856201-579e-446c-af46-e3181ad82157")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 0 -2.286)
@@ -8342,7 +8342,7 @@
 		(path "/00000000-0000-0000-0000-00005b9d3fba")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.07 -1.57)
 			(end 2.07 -1.57)
@@ -8607,7 +8607,7 @@
 		(path "/00212ff9-c182-49e9-b059-7000c6f096da")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 5.831 0.533)
 			(end 5.831 -0.533)
@@ -10554,7 +10554,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C192147"
+		(property "LCSC" "C84980"
 			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
@@ -11066,7 +11066,7 @@
 		(path "/9068f66c-bfaa-402a-838e-bbaf93c69344")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 2.06 1.06)
 			(end 2.06 0.76)
@@ -11388,6 +11388,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "54760c6d-0c1a-4613-80a9-a0f8b329cfbd")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C536803"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "0d2220e8-dd68-4ccf-8706-7da132f4b843")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12006,7 +12018,7 @@
 		(path "/3cf3c054-8020-4700-ab37-1b53d430559c")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.05 -0.3)
 			(end -2.05 0.3)
@@ -12737,7 +12749,7 @@
 		(path "/6d6d5a07-57b8-4212-ad09-ee1212886a3f")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.659698 2.315)
 			(end -1.859698 2.315)
@@ -14897,6 +14909,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C2676948"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "b621784f-8513-40fb-ab1e-09874d830c00")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/225f1dc0-eb09-45f4-9626-1e6192e717bf")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
@@ -16027,7 +16051,7 @@
 		(path "/ee293e48-f2f7-49b4-b04c-afe6d809b625")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 6.42 4.06)
 			(end 5 4.06)
@@ -17749,6 +17773,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c04a0bad-cf65-40f5-9701-a24537c1ecdd")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C536803"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "d547fdbd-fff9-4650-992f-01d68ccb3494")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19632,6 +19668,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C138359"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "0d1e81df-c599-43d4-9bef-909188e066d5")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/f1ed42e2-4269-4db8-891e-2999a2ecad4f")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
@@ -19910,7 +19958,7 @@
 		(path "/f2254659-53fc-4d71-a7d9-de24d377e1f6")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1 1)
 			(end -2.2 1)
@@ -21477,6 +21525,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C536803"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "5e6100ba-1e4c-4c87-a862-003f51a6a420")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/ddb82e74-535f-4491-be8a-200859e97a09")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
@@ -22068,6 +22128,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a7e67359-6b25-44c6-aad3-f32df2a3c6f0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C536803"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "864ba7b7-e322-4418-989d-4a8ceb4ee026")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22886,6 +22958,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C882602"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "6853b346-21a4-49b2-9f6e-a0de97fde3f6")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-00005beb3d74")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
@@ -23677,6 +23761,18 @@
 					(thickness 0.15)
 				)
 				(justify mirror)
+			)
+		)
+		(property "LCSC" "C456289"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "a29711ae-c211-44fc-b339-469ee0f95250")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005e6d2779")
@@ -25051,6 +25147,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C15648"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "c530eb1a-d99b-464f-b09c-d8fe3c64b001")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?23* SOIC*")
 		(path "/24ef8b22-cb03-4feb-93b5-0c31815654dd")
 		(sheetname "ルート")
@@ -26023,6 +26131,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C40912"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "28bfac24-87ff-406b-ac65-68ef21643d83")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/dc8e5b8b-86c2-4f2c-a1ab-911e753e50e6")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
@@ -26277,10 +26397,22 @@
 				)
 			)
 		)
+		(property "LCSC" "C5260573"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "91f3efb7-4b96-4e18-8dd9-113ccaa1baba")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b56fda34-8732-4239-b48d-c67214a829fe")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -0.97 -3.45)
 			(end -2.47 -3.45)
@@ -29924,6 +30056,18 @@
 				(justify mirror)
 			)
 		)
+		(property "LCSC" "C456289"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "cfc46b82-2d8c-40c9-a389-61369d631851")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/bbb8ceba-75d4-454b-bcc5-4bf9e5f4e797")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
@@ -30224,6 +30368,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "641e4bc6-eb4c-4347-8c1f-912fb9cb9b54")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C13564"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "8f0de503-41c8-40ee-a599-d5dbd5666cce")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30891,6 +31047,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3fa72cfb-9f46-42da-ad95-6921ef3e5069")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C108516"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "7d4ab6af-141f-42a7-a233-edbc770123cb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32059,6 +32227,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "896ac2e2-8ab0-4681-b77d-73f338c9e150")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2847588"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "56c78d5d-df10-4ed5-abb1-d4c675aa46ec")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34154,7 +34334,7 @@
 		(path "/00000000-0000-0000-0000-00005e4579db")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 6.42 4.06)
 			(end 5 4.06)
@@ -35855,6 +36035,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C456289"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "df767269-28a2-42c6-953a-9c13b825831e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/de360476-487a-470a-aa7b-2b959ff786da")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
@@ -37296,6 +37488,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C40912"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "6dbc98c2-eaf9-4fd9-a569-d4fba44034fc")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/09fc82a8-fee4-4265-9bae-f0ef1d255a96")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
@@ -38199,7 +38403,7 @@
 		(path "/3456e0ce-9d31-4975-932a-fb8ecfe01080")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.36 2.11)
 			(end -1.11 2.11)
@@ -38667,7 +38871,7 @@
 		(path "/c1cb232d-c3fb-4178-adbf-b9e440b22cf0")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -2.05 -0.3)
 			(end -2.05 0.3)
@@ -38961,6 +39165,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c8556363-82c5-47ec-81d4-83fdcfd7cddc")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C536803"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "f201561d-002e-4ead-9d5e-ef4a37b1d5b0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -40604,7 +40820,7 @@
 		(path "/c4c82d1b-4e17-4d59-8d42-762e2818825a")
 		(sheetname "ルート")
 		(sheetfile "ORION_boost_v5.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 2.06 1.06)
 			(end 2.06 0.76)
@@ -41139,6 +41355,18 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0382d789-12af-420a-a84b-7b58c4ee903f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C536803"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "227fb11e-c695-437f-abbc-968a62b90942")
 			(effects
 				(font
 					(size 1.27 1.27)
