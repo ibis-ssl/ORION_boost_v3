@@ -59,11 +59,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "clearance|104600000|74680000|f5f1e6dc-4824-4d3e-9bfc-24d59282038a|1ff19aa5-4979-4e2b-9760-38df44354061",
-        "clearance|135117600|57907500|289a5766-b695-491d-8c16-8bb354e85d73|4b162ba7-7d4b-4633-96b4-e5605ba548f7",
-        "clearance|145393200|70120000|4ac0fffc-042c-49db-ba8a-ec3300c2e22e|0bacce04-4e34-4e11-bc25-8554b78d4312"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -102,7 +98,7 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
+        "silk_edge_clearance": "ignore",
         "silk_over_copper": "ignore",
         "silk_overlap": "ignore",
         "skew_out_of_range": "error",
@@ -142,7 +138,7 @@
         "min_track_width": 0.2,
         "min_via_annular_width": 0.05,
         "min_via_diameter": 0.4,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [

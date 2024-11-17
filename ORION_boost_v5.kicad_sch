@@ -11092,6 +11092,17 @@
 		)
 		(uuid "b45059f3-613f-4b7a-a70a-ed75a9e941e6")
 	)
+	(label "LOGIC_POWER"
+		(at 300.99 320.04 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "babb85d3-d7a0-482d-b98b-f9d1bda2e67d")
+	)
 	(label "KICK_1_GATE"
 		(at 368.3 97.79 0)
 		(fields_autoplaced yes)
@@ -17182,7 +17193,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "S3AB"
 			(at 401.32 303.53 0)
 			(effects
 				(font
@@ -17454,7 +17465,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "S3AB"
 			(at 351.79 298.45 0)
 			(effects
 				(font
@@ -18021,7 +18032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IPD60R180P7S"
 			(at 406.4 107.95 0)
 			(effects
 				(font
@@ -18174,7 +18185,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IPD60R180P7S"
 			(at 471.17 165.1 0)
 			(effects
 				(font
@@ -19014,6 +19025,76 @@
 			(project ""
 				(path "/a24ddb4f-c217-42ca-b6cb-d12da84fb2b9"
 					(reference "#PWR084")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 306.07 317.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3456e0ce-9d31-4975-932a-fb8ecfe01080")
+		(property "Reference" "J12"
+			(at 308.61 317.4999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 308.61 320.0399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
+			(at 306.07 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 306.07 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 306.07 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d8d7cc2b-438f-4fb8-ab86-922ab2b3481f")
+		)
+		(pin "1"
+			(uuid "fdbe78d5-6c7d-4261-bab7-55ed52607d00")
+		)
+		(instances
+			(project ""
+				(path "/a24ddb4f-c217-42ca-b6cb-d12da84fb2b9"
+					(reference "J12")
 					(unit 1)
 				)
 			)
@@ -19944,7 +20025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "UDZVTE-1712B"
 			(at 406.4 322.58 0)
 			(effects
 				(font
@@ -20214,7 +20295,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IPD60R180P7S"
 			(at 440.69 107.95 0)
 			(effects
 				(font
@@ -22584,6 +22665,71 @@
 		)
 	)
 	(symbol
+		(lib_id "SSL_BST_ver1.3_rev2-rescue:GND-power")
+		(at 300.99 317.5 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "74063254-01ba-4489-b713-d84b199b8e55")
+		(property "Reference" "#PWR039"
+			(at 294.64 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 296.5958 317.627 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 300.99 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 300.99 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 300.99 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cd8f7129-9fab-4431-b4dc-bc099f587c99")
+		)
+		(instances
+			(project "ORION_boost_v5"
+				(path "/a24ddb4f-c217-42ca-b6cb-d12da84fb2b9"
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "SSL_BST_ver1.3-rescue:C")
 		(at 355.6 292.1 90)
 		(unit 1)
@@ -23097,7 +23243,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IPD60R180P7S"
 			(at 402.59 165.1 0)
 			(effects
 				(font
@@ -27307,7 +27453,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "BSS138"
 			(at 411.48 354.33 0)
 			(effects
 				(font
@@ -27447,7 +27593,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IPD60R180P7S"
 			(at 433.07 165.1 0)
 			(effects
 				(font
@@ -28469,7 +28615,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IPD60R180P7S"
 			(at 473.71 107.95 0)
 			(effects
 				(font
