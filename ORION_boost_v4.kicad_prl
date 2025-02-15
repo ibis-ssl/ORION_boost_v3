@@ -58,7 +58,7 @@
       36
     ],
     "visible_layers": "0001170_80000007",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "ORION_boost_v4.kicad_prl",
